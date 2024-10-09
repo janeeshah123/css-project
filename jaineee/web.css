@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.child {
+    background-color: yellow;
+    height: 100px;
+    display: inline block right;
+    position: relative;
+}
+
+ul {
+    margin-top: 20px;
+    float: right;
+    display: block;
+}
+h2 {
+    float: right;
+    margin: 30px;
+}
+.img1{
+    float:left;
+    width: 50px;
+    margin-top: 55px;
+    margin-left: 80px;
+    height: 500px;
+    width: 500px;
+}
+.hello {
+    margin-top: 150px;
+    float:right;
+    width: -40px;
+}
+.hello h3{
+    margin-left: -50px;
+}
+.btn{
+    background-color:yellow;
+    border: yellow;
+    height:50px;
+    width: 190px;
+    margin-top:50px;
+    margin-left:40px; 
+}
+.main{
+    background-color: cadetblue;
+    height:50vh;
+    width:200vh;
+
+
+}
+
+
+
+   
